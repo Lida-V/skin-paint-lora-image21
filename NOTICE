@@ -1,0 +1,17 @@
+Qwen is licensed under the Qwen RESEARCH LICENSE AGREEMENT, Copyright (c) 2026 Hangzhou Tongyi Laboratory Technology Co., Ltd. All Rights Reserved.
+
+Built with Qwen
+
+Modification notice:
+This distribution contains a separately trained LoRA adapter for skin painting,
+fine-tuned from Qwen Image 2.1 by Lida on 2026-10-08. It is an independently
+produced modification, not an official Qwen model. No base model weights are included.
+
+Base model: Qwen/Qwen-Image-2.1
+Base model revision: d26bb61231c349cf6b7896fa83353113880e1ba3
+Original license release date: September 20, 2026
+Original license: https://huggingface.co/Qwen/Qwen-Image-2.1/blob/main/LICENSE
+
+The adapter is subject to the Qwen RESEARCH LICENSE AGREEMENT supplied in LICENSE.
+Research or evaluation use only unless a separate commercial license is obtained
+from the upstream licensor. See LICENSE for the complete terms.
